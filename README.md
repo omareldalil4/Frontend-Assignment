@@ -6,7 +6,7 @@ This project implements a property filtering application with SVG polygon filter
 
 1. Clone the repository
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/omareldalil4/Frontend-Assignment.git
    cd frontend-assignment
    ```
 
